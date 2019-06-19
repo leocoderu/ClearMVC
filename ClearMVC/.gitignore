@@ -1,0 +1,14 @@
+/bin
+/Content
+/fonts
+/obj
+/Properties
+/Scripts
+*.asax
+*.asax.cs
+*.config
+*.csproj
+*.csproj.user
+
+/Dockerfile
+*.ico
